@@ -21,7 +21,7 @@ To make informed supply decisions, Chicago’s e-scooter companies must gain a c
   - Overestimation: Results in increased operational costs and unused resources.
 - Opportunity: By leveraging advanced demand forecasting, companies can strategically position e-scooters, ensuring availability in high-demand areas and gaining a competitive edge in the market.
 
-![Slide 1](/PPT_slides_abbrev/problem_statement.PNG "Demand Forecasting Significance")
+![Slide 1](/PPT_Slides/problem_statement.PNG "Demand Forecasting Significance")
 
 ## Data Overview
 
